@@ -14,7 +14,7 @@
 #### **Features:**
   - **Word Selection:** The game selects a random word from a list of options, ensuring variety in each playthrough.
   - **Guessing Mechanism:** Players input one letter at a time to uncover the hidden word. The game tracks guessed letters and displays the current state of the word after each guess.
-  - **Limits on Incorrect Guesses:** To add suspense, the game sets a limit on the number of incorrect guesses allowed (default: 6). Players must strategize to reveal the word before reaching the maximum attempts.
+  - **Limits on Incorrect Guesses:** To add suspense, the game sets a limit on the number of incorrect guesses allowed (default: 5). Players must strategize to reveal the word before reaching the maximum attempts.
 
 #### **Usage:**
   - Players are welcomed to the game with a friendly message.
