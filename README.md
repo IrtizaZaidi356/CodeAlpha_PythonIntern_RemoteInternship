@@ -23,3 +23,36 @@
 
 #### **Conclusion:**
   - The Text-Based Hangman Game is an entertaining project that showcases foundational Python concepts such as randomization, input handling, and conditional statements. It provides a hands-on experience in creating interactive programs and is suitable for beginners and those looking to reinforce their Python skills. Players can enjoy the challenge of guessing words while exploring the world of text-based gaming. Feel free to customize the code, add more words, or tweak the difficulty level for an enhanced gaming experience.
+
+---
+
+## **Task No# 02 : URL Shortener**
+### **Perform Task**
+- Develop a URL shortening service like Bitly. Users can input a long URL, and the application will generate a shorter, unique URL that redirects to the original link
+
+---
+
+## **Project No# 02: URL Shortener in Python**
+
+#### **Introduction:**
+  - The Python Tkinter URL Shortener is an intuitive GUI application that replicates the frontend experience of a URL shortening service, akin to platforms like Bitly. This application empowers users to input lengthy URLs and swiftly generates shorter, unique URLs, which are conveniently copied to the clipboard for effortless sharing.
+
+#### **Key Features:**
+  - **Tkinter GUI:** Leveraging the Tkinter library, the program delivers a user-friendly interface. Essential widgets such as labels, entry fields, and buttons are employed to enhance the user experience.
+  - **ShortUUID Generation:** Integrating the shortuuid library, the application generates distinctive short URLs. These pseudo short URLs serve as placeholders, simulating the eventual result of a backend system.
+  - **Clipboard Interaction with Pyperclip:** The pyperclip library facilitates cross-platform clipboard operations, ensuring that the generated short URL is swiftly copied, ready for immediate use.
+
+#### **Functionality:**
+  - Users input a long URL, click the "Shorten URL" button, and witness the swift generation of a unique short URL. The application provides real-time feedback through labels and copies the short URL to the clipboard for seamless sharing.
+
+#### **Enhancements:**
+  - The window size is set to 500x300 pixels to provide a more spacious and visually appealing layout. The size adjustment is achieved using the geometry method on the root window.
+
+#### **Conclusion:**
+  - While this project only simulates the frontend aspects of a URL shortening service, it offers a practical demonstration of creating interactive applications with Tkinter. It underscores the simplicity of integrating external libraries for unique identifier generation and clipboard functionality. To fully realize a URL shortening service, a corresponding backend system would be necessary to manage URL storage, retrieval, and redirection.
+
+#### **Usage:**
+  1) Execute the Python script.
+  2) Input a long URL.
+  3) Click "Shorten URL" to promptly generate a unique short URL.
+  4) The short URL is presented and copied to the clipboard for immediate sharing.
