@@ -56,3 +56,41 @@
   2) Input a long URL.
   3) Click "Shorten URL" to promptly generate a unique short URL.
   4) The short URL is presented and copied to the clipboard for immediate sharing.
+
+---
+
+## **Task No# 03 : Basic ChatBot**
+### **Perform Task**
+- Create a text-based chatbot that can have conversations with users. You can use natural language processing libraries like NLTK or spaCy to make your chatbot more conversational.
+
+---
+
+## **Project No# 03: Basic ChatBot Application with Tkinter and NLTK**
+
+#### **Introduction:**
+  - The "Basic ChatBot" project showcases a simple yet engaging text-based conversational interface built using Python and Tkinter. This user-friendly application enables users to interact with a chatbot that responds to their queries and prompts. The project utilizes the Tkinter library for creating a graphical user interface (GUI) and leverages the nltk library for natural language processing, allowing the chatbot to engage in meaningful conversations.
+
+#### **Key Features:**
+
+  1) **User Interface with Tkinter:** The application boasts an intuitive GUI designed using Tkinter, providing a visually appealing and responsive platform for users to interact with the chatbot.
+  2) **Themed Appearance:** The ttkthemes library enhances the aesthetics by incorporating the "elegance" theme, contributing to a polished and modern user interface.
+  3) **Interactive Conversations:** The chatbot responds dynamically to user input, engaging in conversations on various topics. It understands and responds to greetings, inquiries about its capabilities, jokes, and more.
+  4) **Input Validation:** The application includes input validation to ensure that users provide meaningful messages. If an empty message is entered, a prompt alerts the user to enter a valid message.
+  5) **Conversation History Display:** The scrolled text widget displays the ongoing conversation, making it easy for users to review the chatbot's responses and their own messages.
+  6) **Send Button and Enter Key Interaction:** Users can send messages either by clicking the "Send" button or by pressing the Enter key, providing flexibility in interacting with the chatbot.
+
+#### **Functionality:**
+  - Upon launching the application, users are greeted with a welcome message from the chatbot. They can then engage in conversations by typing messages in the input field and receiving responses from the chatbot. The application provides a diverse set of responses, including answering questions about the chatbot's capabilities, telling jokes, and handling farewell messages.
+
+#### **Conclusion:**
+  - The "Basic ChatBot" project demonstrates the integration of Python's Tkinter and nltk libraries to create an interactive and visually appealing chatbot application. While it serves as a starting point, the project can be expanded by adding more sophisticated natural language processing capabilities, integrating external APIs for real-time information retrieval, and enhancing the chatbot's responses for a more lifelike interaction.
+
+#### **Usage:**
+
+  - Launch the application.
+  - Enter messages in the input field.
+  - Click the "Send" button or press Enter to interact with the chatbot.
+  - Explore various topics and enjoy the chatbot's responses.
+
+#### **Note:**
+  - This project lays the foundation for developing more advanced chatbot applications with extended functionalities and improved conversational abilities.
